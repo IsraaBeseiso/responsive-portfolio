@@ -1,3 +1,60 @@
 .card {
   margin-top: 20px;
 }
+
+li {
+  display: inline;
+  margin-right: 10px;
+}
+body {
+  background-image: url("bk.jpg");
+}
+.div {
+  background-color: black;
+}
+.family.jpeg {
+  background-position: center;
+}
+h1 {
+  text-align: center;
+  text-decoration: black;
+  text-align-last: center;
+}
+p {
+  text-align: center;
+}
+.btn {
+  width: 255px;
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: cornflowerblue;
+  margin-bottom: 15px;
+  background-position: center;
+  border-radius: 12px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.nav {
+  text-decoration-color: black;
+}
+
+.container {
+  background-color: ghostwhite;
+}
+
+.border {
+  background-color: wheat;
+}
+.margin {
+  background-color: wheat;
+}
